@@ -6,9 +6,13 @@ Git
 - It is a version control system
 - It is used to keep track of code changes
 
+
+
 GitHub
 - It is web based git hosting service
 - Learned various git commands and their uses
+
+
 
 Commands
 - clone : cloning existing repository to code editor
@@ -20,6 +24,8 @@ Commands
 - init : initializes empty git repository 
 - branch : checks which branch are we working in
 - checkout : changes branch 
+
+
 
 - Learned about how pull requests work
 - Learned about creating different branches
